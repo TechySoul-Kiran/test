@@ -17,6 +17,7 @@ In this exercise we would use the following Titanic dataset for exploratory data
 ===============================================
 
 cd SageMaker
+
 git clone https://github.com/kirannsa/test
 
 ===============================================
